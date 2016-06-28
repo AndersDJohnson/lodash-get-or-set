@@ -1,6 +1,6 @@
 {
   "name": "lodash-get-or-set",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get value at path if exists, else set to value.",
   "main": "dist/index.js",
   "scripts": {

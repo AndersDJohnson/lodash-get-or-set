@@ -1,0 +1,32 @@
+{
+  "name": "lodash-get-or-set",
+  "version": "1.0.0",
+  "description": "Get value at path if exists, else set to value.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src/index.js > dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersDJohnson/lodash-get-or-set.git"
+  },
+  "keywords": [
+    "lodash",
+    "get",
+    "set",
+    "getter",
+    "setter"
+  ],
+  "author": "Anders D. Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersDJohnson/lodash-get-or-set/issues"
+  },
+  "homepage": "https://github.com/AndersDJohnson/lodash-get-or-set#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-core": "^6.10.4",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}

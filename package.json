@@ -1,6 +1,6 @@
 {
   "name": "lodash-get-or-set",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get value at path if exists, else set to value, with lodash.",
   "main": "dist/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "getter",
     "setter"
   ],
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AndersDJohnson/lodash-get-or-set/issues"
